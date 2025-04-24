@@ -10,6 +10,10 @@
 
 ## 更新日志
 
+<div style="background-color: red; padding: 10px; text-align: center;">
+  <span style="background - color: white; padding: 10px 20px; border - radius: 10px; color: black; font - size: 24px;">收藏本页面，考研必上岸！</span>
+</div>
+
 ### 2025年04月
 
 - 2025年04月15日：[定积分比大小的时候，一定要关注积分上下限的相对大小](https://zhaokaifeng.com/22899/)
