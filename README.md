@@ -10,11 +10,19 @@
 
 ## 更新日志
 
-<div style="background-color: red; padding: 10px; text-align: center;">
-  <span style="background - color: white; padding: 10px 20px; border - radius: 10px; color: black; font - size: 24px;">收藏本页面，考研必上岸！</span>
-</div>
-
 ### 2025年04月
+
+- 2025年04月27日：[极限运算中的高阶无穷小该怎么参与运算？](https://zhaokaifeng.com/22948/)
+
+- 2025年04月25日：[计算质点和非质点之间引力的方法：微元法](https://zhaokaifeng.com/22940/)
+
+- 2025年04月24日：[曲线与 X 轴所围图形的面积怎么算？积分+绝对值](https://zhaokaifeng.com/22937/)
+
+- 2025年04月19日：[在极限计算中使用反常积分的上下限时，一定要注意区分左右](https://zhaokaifeng.com/22919/)
+
+- 2025年04月18日：[峰式田字格：确定变量含有绝对值的分段函数的复合运算要分几段计算](https://zhaokaifeng.com/22908/)
+
+- 2025年04月16日：[用定积分的定义计算数列和时怎么确定积分上下限？](https://zhaokaifeng.com/22902/)
 
 - 2025年04月15日：[定积分比大小的时候，一定要关注积分上下限的相对大小](https://zhaokaifeng.com/22899/)
 
