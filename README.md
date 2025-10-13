@@ -1,3 +1,5 @@
+# 考研数学笔记·更新日志
+
 [高等数学笔记](https://zhaokaifeng.com/index/further-mathematics-latest-posts-page1/) | [线性代数笔记](https://zhaokaifeng.com/index/linear-algebra-latest-posts-page1/) | [概率统计笔记](https://zhaokaifeng.com/index/probability-and-statistics-latest-posts-page1/)
 
 「**[荒原之梦考研数学](https://zhaokaifeng.com/)**」是一个专注于考研数学的学习平台，成立于 2017 年。荒原之梦考研数学既立足于严谨的数学理论，又着眼于考研实战，同时不拘泥于传统的教育教学方法——我们只有一个目标，就是让同学们可以在考场上更快更轻松地解题，拿到自己理想的分数。
@@ -7,3 +9,7 @@
 「**[荒原之梦考研数学](https://zhaokaifeng.com/)**」中的大部分文章都图文并茂，虽然撰写这些学习笔记需要花费大量的时间和精力，但是，能够陪伴着同学们在追逐梦想的道路上共同进步，已然是荒原之梦考研数学最值得骄傲和自豪的事情——当同学们点开下面的这一篇篇文章时，荒原之梦考研数学存在的价值，就已经得到了实现。
 
 即便筚路蓝缕，也要留给岁月以无悔的奋斗，加油，共勉！
+
+
+
+$\frac{1}{2}$
