@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 荒原之梦考研数学
+title: 荒原之梦考研数学网介绍
 email: zhaokaifengcom@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  「荒原之梦考研数学」是一个专注于考研数学的学习平台，我们既立足于严谨的数学理论，又着眼于考研实战，同时不拘泥于传统的教育教学方法——我们的目标就是让同学们可以在考场上更快更轻松地解题，取得自己理想的分数！
