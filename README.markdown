@@ -12,5 +12,5 @@
 
 ## 2025 年
 
-[01 月](2025/2025-01-01-whats-new.markdown) | [02 月](2025/2025-02-01-whats-new.markdown) | [03月](2025/2025-03-01-whats-new.markdown) | [04 月](2025/2025-04-01-whats-new.markdown) | [05 月](2025/2025-05-01-whats-new.markdown) | [06 月](2025/2025-06-01-whats-new.markdown) | [07 月](2025/2025-07-01-whats-new.markdown) | [08 月](2025/2025-08-01-whats-new.markdown) | [09 月](2025/2025-09-01-whats-new.markdown) | [10 月](2025/2025-10-01-whats-new.markdown) | [11 月](2025/2025-11-01-whats-new.markdown) | 
+[01 月](2025/2025-01-01-whats-new.markdown) | [02 月](2025/2025-02-01-whats-new.markdown) | [03月](2025/2025-03-01-whats-new.markdown) | [04 月](2025/2025-04-01-whats-new.markdown) | [05 月](2025/2025-05-01-whats-new.markdown) | [06 月](2025/2025-06-01-whats-new.markdown) | [07 月](2025/2025-07-01-whats-new.markdown) | [08 月](2025/2025-08-01-whats-new.markdown) | [09 月](2025/2025-09-01-whats-new.markdown) | [10 月](2025/2025-10-01-whats-new.markdown) | [11 月](2025/2025-11-01-whats-new.markdown) | [12 月](2025/2025-12-01-whats-new.markdown) 
 
